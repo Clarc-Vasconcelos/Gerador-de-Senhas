@@ -2,13 +2,13 @@
 
 > status do projeto: concluído
 
-O projeto se propõe a elaborar uma senha de acordo com o tamanho de caracteres escolhido por um usuário, que varia entre letras maiusculas ou não e com caracteres especiais. O projeto se materializa a partir de meus estudos iniciais de react, bem como meu treinamento projetando nessa tecnologia que para mim é nova. 
+O projeto se propõe a elaborar uma senha de acordo com o tamanho de caracteres escolhido por um usuário, que varia entre letras maiúsculas ou não e com caracteres especiais. O projeto se materializa a partir de meus estudos iniciais de react, bem como meu treinamento projetando nessa tecnologia que para mim é nova. 
 
 ## Vizualize a Página:
-![Social-Links-Profile](https://github.com/Clarc-Vasconcelos/My-Web-Page/assets/129234188/ab1fa1aa-0393-436f-abd5-0730d4807dfc)
+![gerador-de-senha](https://github.com/Clarc-Vasconcelos/Gerador-de-Senhas/assets/129234188/22266510-08ce-4892-9ba1-976279f5d42e)
 <br />
 
-<p>Para visualizar a página em ação, acesse este <a href='xxxxxx' target='_blank'>link</a>.</p>
+<p>Para visualizar a página em ação, acesse este <a href='https://gerador-de-senhas-ashen-xi.vercel.app/' target='_blank'>link</a>.</p>
 
 ## Tecnologias Utilizadas
 <ul>
